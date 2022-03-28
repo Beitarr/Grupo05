@@ -1,4 +1,5 @@
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git
 
-Beatriz Rubio
+Error Tipo 1
+Error Tipo 2
